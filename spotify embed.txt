@@ -1,0 +1,12 @@
+<iframe 
+    style={{
+        borderRadius: "12px"
+    }} 
+    src="https://open.spotify.com/embed/track/1SyZuaN7V3CkN4wMLnxSMH?utm_source=generator" 
+    width={300}
+    height="380" 
+    frameBorder="0" 
+    allowFullScreen={true}
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture;">
+    
+</iframe>

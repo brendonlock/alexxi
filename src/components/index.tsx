@@ -1,0 +1,9 @@
+export { NavbarComponent } from './Navbar';
+export { FooterComponent } from './Footer';
+export { MobileNavbarComponent } from './NavbarMobile';
+export { AllReleaseComponent } from './AllReleases';
+export { AboutSectionComponent } from './AboutSection';
+export { LatestReleaseComponent } from './LatestReleaseComponent';
+export { MixInfoSectionComponent } from './MixInfoSection'; 
+export { MixingPaymentComponent } from './MixingPaymentSection';
+export { DownloadsComponent } from './Downloads';
